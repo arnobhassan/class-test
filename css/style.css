@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+body{
+    background-image: url(../img/Moon.jpg);
+    background-repeat: no-repeat cover;
+
+
+}
+
+
+.form-menu{
+     
+     
+    width: 50%;
+    margin: 20px 0;
+    padding: 1px 0;
+    float: left;
+    
+
+}
+ 
+
+.register-text h2{
+    width: 100%;
+    color: rgb(0, 255, 72);
+    font-size: 30px;
+    margin:0;
+    padding:20px 10px;
+    
+
+}
+.register-text p{
+    width: 100%;
+    color: gray;
+    margin: 0;
+    padding: 18px 0;
+}
+.register-manu{
+    color: honeydew;
+
+}
+.menu-btn{
+    border-radius: 1px solid red;
+    color: grey;
+    cursor: pointer;
+
+}
